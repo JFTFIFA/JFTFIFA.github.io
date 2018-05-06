@@ -1,4 +1,2 @@
-tr:nth-child(even) {background: #CCC}
-tr:nth-child(odd) {background: #FFF}
-tr:hover {background-color: #f5f5f5;}
-body {background-color: #ffff80;}
+tr:hover {background-color: #4775d1;}
+tr {background-color: #ffff80;}
