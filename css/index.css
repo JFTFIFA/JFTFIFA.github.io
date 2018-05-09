@@ -2,6 +2,11 @@ tr:hover {background-color: white;}
 td {text-align:center;}
 a:link {color: #002699;} 
 
+#Bottom {
+   position : absolute;
+   bottom : 0;
+}
+
 html {
     /* To make use of full height of page*/
     min-height: 100%;
