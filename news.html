@@ -2,9 +2,18 @@
 <head>
   <title>News</title>
   <link rel="stylesheet" type="text/css" href="JFTFIFA.github.io/css/index.css">
+  <style>
+         body { background-image:url("JFTFIFA.github.io/test.jpg");/*your background image*/  
+         background-repeat:no-repeat;/*we want to have one single image not a repeated one*/  
+         background-size:cover;/*this sets the image to fullscreen covering the whole screen*/  
+         /*css hack for ie*/     
+         filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='JFTFIFA.github.io/test.jpg',sizingMethod='scale');
+         -ms-filter:"progid:DXImageTransform.Microsoft.AlphaImageLoader(src='JFTFIFA.github.io/test.jpg',sizingMethod='scale')";
+         }
+  </style>
 </head>
   
-<body style="background-color:white;">
+<body>
    <div class="topnav">
      <a href="https://JFTFIFA.github.io/">Home</a>
      <a class="active" href="https://JFTFIFA.github.io/news.html">News</a>
