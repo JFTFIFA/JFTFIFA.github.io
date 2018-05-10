@@ -4,6 +4,8 @@ table, th, td { border-collapse: collapse;
 tr:hover {background-color: white;}
 td {text-align:center;}
 
+p {background-color: #e6eeff;}
+
 html {
     /* To make use of full height of page*/
     min-height: 100%;
