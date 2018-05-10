@@ -2,7 +2,7 @@ table, th, td { border-collapse: collapse;}
 
 tr:hover {background-color: white;}
 td {text-align:center; 
-    padding: 15px;}
+    padding: 10px;}
 
 html {
     /* To make use of full height of page*/
