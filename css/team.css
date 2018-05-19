@@ -17,6 +17,12 @@ h1 {
     text-shadow: -4px 0px #bb9b44;
 }
 
+h3 {
+    font-size: 26px;
+    color:#264d78;
+    text-shadow: -4px 0px #bb9b44;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color:#bb9b44;
