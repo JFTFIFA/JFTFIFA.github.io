@@ -5,6 +5,12 @@ tr:hover {background-color: #bb9b44;}
 td {text-align:center; 
     padding: 10px;}
 
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 html {
     /* To make use of full height of page*/
     min-height: 100%;
