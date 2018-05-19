@@ -1,6 +1,6 @@
 table, th, td { border-collapse: collapse;}
 
-tr:hover {background-color: white;}
+tr:hover {background-color: #bb9b44;}
 td {text-align:center; 
     padding: 10px;}
 
