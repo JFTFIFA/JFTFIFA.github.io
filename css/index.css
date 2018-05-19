@@ -15,6 +15,11 @@ body {
     margin: 0;
 }
 
+h1 {
+    color:#264d78;
+    text-shadow: 2px 2px #bb9b44;
+}
+
 /* Add a black background color to the top navigation */
 .topnav {
     background-color:#bb9b44;
