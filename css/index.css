@@ -2,8 +2,7 @@ table, th, td { border-collapse: collapse;
                  color: white;}
 
 tr:hover {background-color: #bb9b44;}
-td {text-align:center; 
-    padding: 10px;}
+td { padding: 10px;}
 
 .center {
     display: block;
