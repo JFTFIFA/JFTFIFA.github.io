@@ -1,4 +1,5 @@
-table, th, td { border-collapse: collapse;}
+table, th, td { border-collapse: collapse;
+                 color: white;}
 
 tr:hover {background-color: #bb9b44;}
 td {text-align:center; 
