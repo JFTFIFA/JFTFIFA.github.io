@@ -4,6 +4,8 @@ table, th, td { border-collapse: collapse;
 tr:hover {background-color: #bb9b44;}
 td { padding: 10px;}
 
+table.fixtures td { text-align: center;}
+
 .center {
     display: block;
     margin-left: auto;
