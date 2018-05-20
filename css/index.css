@@ -14,6 +14,7 @@ table.fixtures td { text-align: center;}
 
 html {
     /* To make use of full height of page*/
+    font-size: 20px;
     min-height: 100%;
     margin: 0;
 }
