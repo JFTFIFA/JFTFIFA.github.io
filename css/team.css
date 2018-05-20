@@ -3,7 +3,7 @@ table, th, td { border-collapse: collapse;}
 
 html {
     /* To make use of full height of page*/
-    font-size: 50px;
+    font-size: 22px;
     min-height: 100%;
     margin: 0;
 }
