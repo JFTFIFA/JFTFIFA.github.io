@@ -1,5 +1,6 @@
 table, th, td { border-collapse: collapse;}
 
+table {  background: url("/wp-content/uploads/wov.png"); } 
 
 html {
     /* To make use of full height of page*/
