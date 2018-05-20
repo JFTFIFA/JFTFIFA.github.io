@@ -1,5 +1,10 @@
 table, th, td { border-collapse: collapse;}
 
+table {
+    background:url(../images/bgimage.jpg);
+    background-repeat:no-repeat;
+    background-position:center center;
+}
 
 html {
     /* To make use of full height of page*/
