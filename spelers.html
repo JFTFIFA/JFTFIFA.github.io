@@ -26,18 +26,18 @@
            <li><a href="#"><img alt="Muller" src="JFTFIFA.github.io/player/muller.png"></a></li>
            <li><a href="#"><img alt="Goretzka" src="JFTFIFA.github.io/player/goretzka.png"></a></li> 
            <li><a href="#"><img alt="Ibrahimovic" src="JFTFIFA.github.io/player/ibrahimovic.png"></a></li>
-           <li><a href="#"><img alt="N'zonzi" src="JFTFIFA.github.io/player/nzonzi.png">N'zonzi</a></li>
+           <li><a href="#"><img alt="N'zonzi" src="JFTFIFA.github.io/player/nzonzi.png"></a></li>
            <li><a href="#"><img alt="" src="JFTFIFA.github.io/player/neuer.png"></a></li>
          </ul>
       </div> 
          <script>
             function myFunction() {
                 // Declare variables
-                var input, filter, ul, li, a, i;
+                var input, filter, ul, img, a, i;
                 input = document.getElementById('myInput');
                 filter = input.value.toUpperCase();
                 ul = document.getElementById("myUL");
-                li = ul.getElementsByTagName('li');
+                img = ul.getElementsByTagName('li').alt;
 
                 // Loop through all list items, and hide those who don't match the search query
                 for (i = 0; i < li.length; i++) {
