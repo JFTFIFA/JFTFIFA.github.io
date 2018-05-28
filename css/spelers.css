@@ -43,7 +43,7 @@ body {
     background-color: #eee; /* Add a hover effect to all links, except for headers */
 }
 
-./* Add a black background color to the top navigation */
+/* Add a black background color to the top navigation */
 .topnav {
     background-color:#bb9b44;
     overflow: hidden;
