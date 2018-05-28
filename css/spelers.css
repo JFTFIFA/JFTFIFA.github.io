@@ -27,7 +27,18 @@ body {
 
 #myUL li a {
     padding: 12px; /* Add some padding */
-    width:33%;
+}
+
+ul {
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+}
+
+.columns{
+    float: left;
+    position: relative;
+    margin-right: 20px;
 }
 
 
