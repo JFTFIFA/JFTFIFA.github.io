@@ -13,7 +13,7 @@ body {
 #myInput {
     width: 100%; /* Full-width */
     font-size: 20px; /* Increase font-size */
-    padding: 40px 40px 40px 40px; /* Add some padding */
+    padding: 20px 20px 20px 20px; /* Add some padding */
     border: 1px solid #ddd; /* Add a grey border */
     margin-bottom: 20px; /* Add some space below the input */
 }
@@ -26,8 +26,6 @@ body {
 }
 
 #myUL li a {
-    border: 1px solid #ddd; /* Add a border to all links */
-    margin-top: -1px; /* Prevent double borders */
     padding: 12px; /* Add some padding */
     text-decoration: none; /* Remove default text underline */
 }
@@ -41,6 +39,7 @@ body {
     background-color:#bb9b44;
     overflow: hidden;
 }
+
 
 /* Style the links inside the navigation bar */
 .topnav a {
