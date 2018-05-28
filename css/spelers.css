@@ -27,12 +27,9 @@ body {
 
 #myUL li a {
     padding: 12px; /* Add some padding */
-    text-decoration: none; /* Remove default text underline */
+    width:33%;
 }
 
-#myUL li a:hover:not(.header) {
-    background-color: #eee; /* Add a hover effect to all links, except for headers */
-}
 
 /* Add a black background color to the top navigation */
 .topnav {
