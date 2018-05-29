@@ -1,7 +1,6 @@
 table, th, td { border-collapse: collapse;}
 
 table {
-    background:url(JFTFIFA.github.io/css/field.jpg);
     background-repeat:no-repeat;
     background-position:center center;
 }
@@ -30,6 +29,7 @@ h3 {
 
 /* Add a black background color to the top navigation */
 .topnav {
+    width: 100%;
     background-color:#bb9b44;
     overflow: hidden;
 }
