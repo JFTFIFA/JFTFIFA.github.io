@@ -27,6 +27,24 @@ h3 {
     color:#264d78;
 }
 
+/* Navbar container */
+.navbar {
+  width: 100%;
+  overflow: hidden;
+  background-color:#bb9b44;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-family: inherit; /* Important for vertical align on mobile phones */  
+  font-size: 17px;
+}
+
 /* The dropdown container */
 .dropdown {
   float: left;
@@ -79,4 +97,13 @@ h3 {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.navbar a.active {
+    background-color: #264d78;
+    color: white;
+}
+
+
+
+
 
