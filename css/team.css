@@ -80,7 +80,3 @@ h3 {
   display: block;
 }
 
-.navbar a.active {
-    background-color: #264d78;
-    color: white;
-}
