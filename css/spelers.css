@@ -99,3 +99,8 @@ body {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+.topnav a.active {
+    background-color: #264d78;
+    color: white;
+}
