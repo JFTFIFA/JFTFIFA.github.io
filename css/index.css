@@ -60,7 +60,6 @@ h1 {
   outline: none;
   padding: 14px 16px;
   background-color: #bb9b44;
-  margin: 0; /* Important for vertical align on mobile phones */
 }
 
 /* Add a red background color to navbar links on hover */
