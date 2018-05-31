@@ -41,6 +41,8 @@ h3 {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+  font-family: inherit; /* Important for vertical align on mobile phones */  
+  font-size: 17px;
 }
 
 /* The dropdown container */
@@ -56,6 +58,9 @@ h3 {
   outline: none;
   padding: 14px 16px;
   background-color: #bb9b44;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+  font-size: 17px;
 }
 
 /* Add a red background color to navbar links on hover */
