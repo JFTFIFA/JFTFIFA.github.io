@@ -56,6 +56,8 @@ h1 {
 .dropdown .dropbtn {
   font-size: 17px; 
   color: white;
+  border: none;
+  outline: none;
   padding: 14px 16px;
   background-color: #bb9b44;
   margin: 0; /* Important for vertical align on mobile phones */
