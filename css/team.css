@@ -5,7 +5,7 @@ table {
     background-position:center center;
 }
 
-.field { border: 1px solid green;}
+.field { border: 3px solid green;}
 
 html {
     /* To make use of full height of page*/
